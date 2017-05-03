@@ -5,7 +5,9 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+body{
+    margin-left: 75px;
+}
 .col-9 {
     width: 900px;
     overflow: hidden;
